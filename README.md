@@ -127,16 +127,3 @@ Contributions are welcome! If you'd like to add new features or fix issues, plea
 
 ---
 
-## **License**
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project.
-
----
-
-## **Contact**
-For any questions or suggestions, feel free to reach out:
-- **GitHub**: [SarahF99](https://github.com/your-username)
-
---- 
-
-Let me know if you'd like help with setting up any additional sections or enhancements!
-```
